@@ -43,6 +43,7 @@ fetch(url)
         <div class="read-more-button">
            <a href="#">Read More</a>
         </div>
+        </div>
         </div>`;
     });
     postsContainer.innerHTML = result;
